@@ -1,7 +1,10 @@
 # SendMail
-Code to send mail from Gmail
+Code to send mail from Gmail.
+
 Send mail folder contain code and pom.xml
+
 dailyjobs folder contains sample pdf file
+
 Resume1 folder contains resume and cover letter
 
 To enable Guide to use Gmail accounts, please do the following:
