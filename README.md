@@ -22,4 +22,4 @@ Sign out of Gmail, restart Guide and select 1 from the Main Menu for Emails. Ema
 * How to Use*
 * Download code and run PDFReader.java as java application it will generate email.csv in c:\temp folder
 * Verify email.csv and then execute SendEmailWithAttachments as java application.
-* Verify if mail is send in your send  
+* Verify if mail is send in your sent items
